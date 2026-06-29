@@ -1,6 +1,6 @@
 # Private Data — Téléchargements
 
-Application de bureau **Private Data** (macOS · Windows · Linux).
+Application de bureau **Private Data** (macOS · Windows).
 
 ## ⬇️ Télécharger la dernière version
 
@@ -10,9 +10,10 @@ Application de bureau **Private Data** (macOS · Windows · Linux).
 |---|---|
 | 🍎 **macOS** (Apple Silicon + Intel) | `.dmg` |
 | 🪟 **Windows** | `.msi` ou `.exe` (programme d'installation) |
-| 🐧 **Linux** | `.AppImage`, `.deb` ou `.rpm` |
 
 > Toutes les versions : voir l'onglet **[Releases](../../releases)**.
+>
+> _(Une version Linux pourra être ajoutée plus tard.)_
 
 ---
 
